@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-02-01T16:39:30.429993575Z"
+    digest: d829300972776472b2dfca16ab49c2d228cc8732cccdcbeacbb78addb8fca6a2
+    name: myapp
+    urls:
+    - https://frodo5020.github.io/helm-repo/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-01T16:39:30.429672634Z"
